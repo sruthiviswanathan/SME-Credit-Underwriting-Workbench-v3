@@ -1,0 +1,6 @@
+{
+  "name": "SME Credit Underwriting Intelligence Workbench",
+  "description": "Multi-tenant, evidence-aware credit underwriting intelligence workbench with deterministic policy engine, semantic segregation, hybrid RAG, prompt injection guardrails, and human decision authority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
